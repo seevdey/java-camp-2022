@@ -1,0 +1,4 @@
+com\mycompany\interfaces\App.class
+com\mycompany\interfaces\OracleCustomerDal.class
+com\mycompany\interfaces\ICustomerDal.class
+com\mycompany\interfaces\MySqlCustomerDal.class

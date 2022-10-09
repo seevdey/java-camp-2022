@@ -1,0 +1,5 @@
+com\mycompany\interfacedemo\IEatable.class
+com\mycompany\interfacedemo\IPayable.class
+com\mycompany\interfacedemo\OutSourceWorker.class
+com\mycompany\interfacedemo\App.class
+com\mycompany\interfacedemo\IWorkable.class
