@@ -1,0 +1,11 @@
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\bin\Debug\netcoreapp2.1\YoutubeEgitim2.deps.json
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\bin\Debug\netcoreapp2.1\YoutubeEgitim2.runtimeconfig.json
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\bin\Debug\netcoreapp2.1\YoutubeEgitim2.runtimeconfig.dev.json
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\bin\Debug\netcoreapp2.1\YoutubeEgitim2.dll
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\bin\Debug\netcoreapp2.1\YoutubeEgitim2.pdb
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\obj\Debug\netcoreapp2.1\YoutubeEgitim2.csprojAssemblyReference.cache
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\obj\Debug\netcoreapp2.1\YoutubeEgitim2.csproj.CoreCompileInputs.cache
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\obj\Debug\netcoreapp2.1\YoutubeEgitim2.AssemblyInfoInputs.cache
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\obj\Debug\netcoreapp2.1\YoutubeEgitim2.AssemblyInfo.cs
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\obj\Debug\netcoreapp2.1\YoutubeEgitim2.dll
+C:\Users\sevde\OneDrive\Masaüstü\JAVA\3.hafta - 05.10\ödev1\2\YoutubeEgitim2\obj\Debug\netcoreapp2.1\YoutubeEgitim2.pdb
