@@ -1,0 +1,4 @@
+com\mycompany\oopwithnlayeredapp\dataAccess\JdbcProductDao.class
+com\mycompany\oopwithnlayeredapp\business\ProductManager.class
+com\mycompany\oopwithnlayeredapp\entities\Product.class
+com\mycompany\oopwithnlayeredapp\OopWithNLayeredApp.class
